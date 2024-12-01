@@ -1,0 +1,8 @@
+{
+  "ENV_NIX_APP_ID": "f46510c2",
+  "ENV_NIX_API_KEY": "f62ef6e92e20179fe3ec0ca0af230598 ",
+  "ENV_SHEETY_ENDPOINT": "https://api.sheety.co/95eb99d1247bfe2a7cb77486ab4543c1/practice/workouts",
+  "ENV_SHEETY_USERNAME": "anupadhikari",
+  "ENV_SHEETY_PASSWORD": "workouttracker123",
+  "ENV_SHEETY_TOKEN": "Basic YW51cGFkaGlrYXJpOndvcmtvdXR0cmFja2VyMTIz"
+}
